@@ -1,0 +1,19 @@
+{
+  "name": "d3-play-ground",
+  "version": "1.0.0",
+  "description": "This folder carries self-made projects, inspired and duplicated by different d3 js users.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -i",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inline-labels",
+    "inline labels"
+  ],
+  "author": "lubegasimon",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
