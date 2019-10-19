@@ -136,5 +136,5 @@ d3.tsv("../data/studentClassroomRatio.tsv").then(data => {
       .attr("class", "title")
       .attr("transform", "translate(" + margin.right + "," + margin.top / 3 +")")
       .attr("dx", "4em")
-      .text("Student-classroom ratio by district in 2012 and 2013")
+      .text("Student-classroom ratio by district in 2012 and 2013");
 });
